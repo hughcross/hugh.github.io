@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Bioinformatic Tools for Biodiversity and Evolutionary Genomics"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is my personal GitHub page. I am a bioinformatician in the Department of Anatomy at the University of Otago in Dunedin, New Zealand. This site will be the central place to link to my GitHub projects and repositories. I have added some basic (but hopefully useful) scripts, but will populate this site with more content as they are developed. 
 
-A data-driven personal website
+
+Teaching Resources
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I have been running a bioinformatics help session in the Anatomy department tea room. This was postponed during the pandemic but will be starting again soon. Most of the material from these sessions is available on the hacky hour webpage. These sessions range from getting started writing scripts to some guidelines on troubleshooting command line errors. More material will be coming soon.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+As part of the Otago Carpentries group (main link) I have helped put on frequent workshops and training sessions. Here is a link to past workshops, which contain a great deal of content. The Bioinformatics Spring School, held in November, 2020, provides a framework for future large events through Otago Carpentries. It consisted of both basic lessons and specific training in several areas, such as gene expression and population genetics.
+
+I have taught several workshops on environmental DNA (eDNA), and organised an eDNA conference attended by researchers from throughout New Zealand and the Pacific region. As part of the conference, I taught a one-day workshop on metabarcoding, which included an optional day for beginners to learn the basics of the command line and R. This was organised with the help of Otago Carpentries. We ran the workshop again as part of the Bioinformatics Spring School.
+
+The growing interest in environmental DNA has led to the creation of an eDNA Hub at the University of Otago. Our inaugural meeting will be held on 25 March. This initiative was organised by Dr. Tina Summerfield (Department of Botany) and myself. The Hub is supported by Genetics Otago and Genomics Aotearoa. 
 
 Getting started
 ======
