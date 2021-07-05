@@ -1,7 +1,7 @@
 ---
 title: "eDNA Workshop, June2021"
 collection: teaching
-type: "postgraduate workshop"
+type: "[**Course website**](https://otagoedna.github.io/edna_workshop_june2021/)"
 permalink: /teaching/2014-spring-teaching-1
 venue: "University of Otago, Auckland campus"
 date: 2021-06-24/25
